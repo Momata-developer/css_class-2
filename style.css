@@ -1,0 +1,78 @@
+.para
+{
+	background-color: lightpink; 
+	margin-top: 80px;
+    width: 80%;
+    border: 3px double #73AD21;
+    padding: 20px;
+    margin-left: 100px;
+	  }
+
+.para_1
+{
+	background-color: lightblue; 
+	margin-top: 80px;
+    width: 80%;
+    border: 3px solid #73AD21;
+    padding: 20px;
+    margin-left: 100px;
+	  }
+
+p{
+	margin-left: 100px;
+	 margin-right:100px;
+	 text-indent: 50px;
+	 text-align: right;
+	 text-align: left;
+	 text-shadow: yellow
+	
+}
+h2 {
+	text-align: center;
+}
+h4
+{
+	border: dashed;
+	text-align: center;
+	background-image: url("image/pngtree-g.jpg"); 
+	padding: 20px;
+	border-radius: 10px;
+	font-size:30px;
+	font-style:30px green; 
+
+}
+
+#design
+{
+	 width:20%;
+	 height:20%;
+	 border: 2px solid green;
+	 border-spacing: 2px;
+	 border-radius: 8px;
+	 margin: 0px;
+	 float: left;
+
+}
+.back
+{
+	background-color: red;
+	margin-bottom: 30px;
+	padding: 200px;
+
+}
+#design_1
+{
+	width:20%;
+	height:20%;
+	border: 2px solid black;
+	margin: 10px;
+	float: left;
+}
+#footer
+{
+	padding: 50px;
+	background-color:lightgreen;
+	border:double;
+	
+}
+
